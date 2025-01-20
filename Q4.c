@@ -17,7 +17,7 @@ int main()
 
     for (int i = 0; i < 3; i++)
     {
-        printf("\nEnter hotel number : %d \n",i+1);
+        printf("\n hotel number : %d \n",i+1);
 
         printf("Enter the name : ");
         scanf("%s", hotels[i].name);
